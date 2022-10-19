@@ -12,4 +12,6 @@ const User = (sequelize) => {
   });
 };
 
+//const
+
 module.exports = User;
